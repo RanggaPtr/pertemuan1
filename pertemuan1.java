@@ -8,5 +8,7 @@ public class pertemuan1 {
         System.out.println("HLAO DUNIA LAIN");
         System.out.println("HLAO DUNIA LAIN 1");
 
+        System.out.println("HALO NIGGA");
+
     }
 }
