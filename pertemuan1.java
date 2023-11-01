@@ -5,5 +5,8 @@ public class pertemuan1 {
         Scanner ino = new Scanner (System.in);
         System.out.println("absdhfbaskfdsadf");
         System.out.println("bfbasufasfdfihj");
+        System.out.println("HLAO DUNIA LAIN");
+        System.out.println("HLAO DUNIA LAIN 1");
+
     }
 }
